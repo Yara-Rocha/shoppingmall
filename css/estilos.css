@@ -59,3 +59,7 @@ border: solid 5px coral;
 background-color: white;
 width: 25%;
 }
+
+#destacados h1{
+	text-shadow: 0 0 3px white;
+}
