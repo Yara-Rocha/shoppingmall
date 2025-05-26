@@ -50,6 +50,7 @@ padding: 10px;
 margin: 10px;
 background-color: white;
 width: 33.3%;
+box-shadow: 4px 8px;
 }
 
 #disponible .contenedor > div {
